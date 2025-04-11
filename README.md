@@ -1,10 +1,10 @@
 <h2 align="center">👋 Hey there, I'm <strong>Zamzami Ahmad</strong> aka <strong>ZetSphere</strong></h2>
 <p align="center">
-  💻 Informatics Student | 🇯🇵 Future Dev in Japan  
+  💻 Informatics Student
   <br/>
   🔥 Passionate in Web Development & Language Learning  
   <br/>
-  🌱 Currently Learning: HTML, CSS, JS | C++ | Python | Japanese 🇯🇵  
+  🌱 Currently Learning: HTML, CSS, JS | C++ | Python | Japanese  
 </p>
 
 ---
