@@ -1,5 +1,5 @@
 <h2 align="center">👋 Hey there, I'm <strong>Zamzami Ahmad</strong> aka <strong>ZetSphere</strong></h2>
-<p align="center">
+<p align="start">
   💻 Informatics Student
   <br/>
   🔥 Passionate in Web Development & Language Learning  
