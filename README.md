@@ -1,8 +1,13 @@
-#### Hello World, I'm Zamzami Ahmad aka ZetSphere 👋
-
 ![Zamzami Ahmad](zamzamiahmad.png)
 
-##### Tech Stack
+#### 🧠 About Me
+
+* 🌱 I’m currently learning **MERN Stack + TypeScript + Laravel + MySQL**
+* 🧩 I love solving real-world problems with creative web solutions
+* 💡 Interested in: **AI Development, Frontend Magic, Full-Stack Engineering**
+* 🧘‍♂️ Fun Fact: I'm an **INFJ** who codes at midnight, dreams in CSS animations, and believes coffee is the best debugger ☕
+
+#### Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -19,14 +24,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-##### Connect with Me
+#### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/miiz4mmi)
 
 ---
 
-##### Play Games With Me
+#### Play Games With Me
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZetSphere/ZetSphere/output/pacman-contribution-graph-dark.svg">
