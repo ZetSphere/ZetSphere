@@ -1,16 +1,6 @@
-<h2 align="center">👋 Hey there, I'm <strong>Zamzami Ahmad</strong> aka <strong>ZetSphere</strong></h2>
-<h3><p align="start">
-  💻 Informatics Student
-  <br/>
-  🔥 Passionate in Web Development & Language Learning  
-  <br/>
-  🌱 Currently Learning: HTML, CSS, JS | C++ | Python | Japanese  
-</p>
-<h3>
+### Hello World, I'm Zamzami Ahmad aka ZetSphere 👋
 
----
-
-### 🚀 Tech Stack
+#### 🚀 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -20,14 +10,14 @@
 
 ---
 
-### 🌐 Connect with Me
+#### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/miiz4mmi)
 
 ---
 
-### 🐍 My Contribution Snake
+#### 🐍 My Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZetSphere/ZetSphere/output/github-snake-dark.svg?color=%23FF5733" />
