@@ -2,12 +2,13 @@
 
 ### About Me
 
-**👋 Hi, I'm Zamzami Ahmad!**
-**📚 A computer science student & aspiring web developer.**
-**🚀 Currently learning JavaScript, React, & Next Js to build cool projects.**
-**🤖 Passionate about AI and excited to dive deeper into the world of artificial intelligence.**
-**💡 Always eager to explore new technologies and share my learning journey.**
+**👋 Hi, I'm Zamzami Ahmad!**  
+**📚 A computer science student & aspiring web developer.**  
+**🚀 Currently learning JavaScript, React, & Next Js to build cool projects.**  
+**🤖 Passionate about AI and excited to dive deeper into the world of artificial intelligence.**  
+**💡 Always eager to explore new technologies and share my learning journey.**  
 **🔧 Check out my repositories to see my projects and experiments with AI!**
+
 
 ### Tech Stack
 
