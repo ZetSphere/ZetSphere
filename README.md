@@ -2,10 +2,12 @@
 
 ### About Me
 
-* 🌱 I’m currently learning **MERN Stack + TypeScript + Laravel + MySQL**
-* 🧩 I love solving real-world problems with creative web solutions
-* 💡 Interested in: **AI Development, Frontend Magic, Full-Stack Engineering**
-* 🧘‍♂️ Fun Fact: I'm an **INFJ** who codes at midnight, dreams in CSS animations, and believes coffee is the best debugger ☕
+👋 Hi, I'm Zamzami Ahmad!
+📚 A computer science student & aspiring web developer.
+🚀 Currently learning JavaScript, React, & Next Js to build cool projects.
+🤖 Passionate about AI and excited to dive deeper into the world of artificial intelligence.
+💡 Always eager to explore new technologies and share my learning journey.
+🔧 Check out my repositories to see my projects and experiments with AI!
 
 ### Tech Stack
 
@@ -27,7 +29,7 @@
 ### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/miiz4mmi)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/miiz4mmi](https://www.instagram.com/zamzami.ahmd/))
 
 ---
 
