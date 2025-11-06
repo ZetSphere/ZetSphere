@@ -1,15 +1,7 @@
 ![Zamzami Ahmad](zamzamiahmad.png)
 
-### About Me
-
-**Hi there, I'm Zamzami Ahmad!**  
-**A informatics student & aspiring web developer.**  
 **Currently learning JavaScript, Python and Other to build cool projects.**  
-**Always eager to explore new technologies and share my learning journey.**  
 **Check out my repositories to see my projects and experiments!**
-
-
-### Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
