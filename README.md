@@ -2,7 +2,7 @@
 
 **Technologies I Use:**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,py,php,laravel,react,nodejs,expressjs,nextjs,mysql,git,github,vscode&perline=9" />
+  <img src="https://skillicons.dev/icons?i=js,py,laravel,react,nodejs,expressjs,nextjs,mysql,git,github,vscode" />
 </div>
 
 **Let's Connect:**
