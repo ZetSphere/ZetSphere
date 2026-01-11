@@ -10,11 +10,11 @@
 **Let's Connect:**
 <div align="left">
   <a href="https://www.linkedin.com/in/your-profile" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="vertical-align: middle;" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/zamzami.ahmd/" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" alt="Instagram" width="40" height="40" style="vertical-align: middle;" />
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram" />
   </a>
 </div>
 
