@@ -1,16 +1,14 @@
-![Zamzami Ahmad](zamzamiahmad.png)
+**Hey.There!**
 
-**Currently learning JavaScript, Python and Other to build cool projects.**  
-**Check out my repositories to see my projects and experiments!**
-
-**Tech Stack :**
+**Technologies I Use:**
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=js,py,html,css,git,github,vscode" />
 </div>
 
 
-**Connect with Me :**
+**Let's Connect:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zamzami.ahmd/)
 
