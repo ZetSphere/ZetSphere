@@ -1,14 +1,18 @@
-<div align="center"> # Ngoding aja dulu, jagonya belakangan. </div>
+<div align="center">
 
-## Tech Stack
+# Ngoding aja dulu, jagonya belakangan.
 
-<div align="left">
+</div>
+
+## <div align="center">Tech Stack</div>
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,react,postgresql" />
 </div>
 
-## Let's Connect
+## <div align="center">Let's Connect</div>
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/your-profile" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
   </a>
