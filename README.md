@@ -1,4 +1,4 @@
-# Ngoding aja dulu, jagonya belakangan ✨
+<div align="center"> # Ngoding aja dulu, jagonya belakangan. </div>
 
 ## Tech Stack
 
