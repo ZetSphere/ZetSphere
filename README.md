@@ -2,7 +2,7 @@
 
 **Technologies I Use:**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,git,react,postgresql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,react,postgresql" />
 </div>
 
 <br>
