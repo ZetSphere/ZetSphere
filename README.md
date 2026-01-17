@@ -1,13 +1,13 @@
-## Ngoding aja dulu, Jagonya nanti-nanti aja
+# Ngoding aja dulu, jagonya belakangan ✨
 
-**Technologies I Use:**
+## Tech Stack
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,react,postgresql" />
 </div>
 
-<br>
+## Let's Connect
 
-**Let's Connect:**
 <div align="left">
   <a href="https://www.linkedin.com/in/your-profile" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
@@ -17,10 +17,10 @@
   </a>
 </div>
 
-**MyContributions:**
+## GitHub Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZetSphere/ZetSphere/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZetSphere/ZetSphere/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ZetSphere/ZetSphere/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Madtch/Madtch/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Madtch/Madtch/output/pacman-contribution-graph.svg">
+  <img alt="GitHub contributions graph" src="https://raw.githubusercontent.com/Madtch/Madtch/output/pacman-contribution-graph.svg">
 </picture>
